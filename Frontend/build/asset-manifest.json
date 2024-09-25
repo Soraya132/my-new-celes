@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/celestialcraftersweb/static/css/main.0a48c1ee.css",
+    "main.js": "/celestialcraftersweb/static/js/main.621459e9.js",
+    "index.html": "/celestialcraftersweb/index.html",
+    "main.0a48c1ee.css.map": "/celestialcraftersweb/static/css/main.0a48c1ee.css.map",
+    "main.621459e9.js.map": "/celestialcraftersweb/static/js/main.621459e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a48c1ee.css",
+    "static/js/main.621459e9.js"
+  ]
+}

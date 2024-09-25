@@ -1,0 +1,116 @@
+.pho {
+  width: 50px;
+  margin-bottom: 10px;
+}
+
+.custom-border {
+background:linear-gradient(#000000, #000000),
+linear-gradient(90deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.212) 51%, rgba(0, 0, 0, 0.4) 100%);
+background-origin: padding-box, border-box;
+background-repeat: no-repeat;
+border-bottom: 0.8px solid transparent !important;
+}
+.custom-border:hover {
+  background:linear-gradient(#0B0B0B,#0B0B0B),
+  linear-gradient(90deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.212) 51%, rgba(0, 0, 0, 0.4) 100%);
+  border-bottom: 0.8px solid transparent !important;
+  }
+.every {
+  background-color: #000;
+  width: auto;
+  margin: auto;
+  color: #fff;
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.de {
+  background: linear-gradient(to right, #01f3f9, #0100fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.acc,
+.exc {
+  padding-left: 10px;
+  border-left: 0.1px;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  border-image: linear-gradient(#0100fe, #01f3f9) 0 0 0 1;
+  border-image-slice: 1;
+  border-style: solid;
+}
+
+.tim {
+  padding-left: 10px;
+  border-left: 0.1px;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  border-image: linear-gradient(#0100fe, #01f3f9) 0 0 0 1;
+  border-image-slice: 1;
+  border-style: solid;
+}
+
+.num {
+  color: #0b25dc;
+}
+
+.pic {
+  width: 50px;
+}
+
+
+/* service.css */
+
+.service-section {
+  background-color: #000; /* Assuming you want a black background */
+}
+
+.services-container {
+  padding: 0 16px; /* Adjust as needed */
+}
+
+.header {
+  color: #fff;
+}
+
+.highlight {
+  color: #0FD0F9; /* Adjust color as needed */
+}
+
+.service-features {
+  padding: 24px 0;
+}
+
+.features-grid {
+  gap: 1rem; /* Adjust the gap to reduce whitespace */
+}
+
+.feature-item {
+  padding: 1rem; /* Adjust padding as needed */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Almost invisible border */
+  border-radius: 0.5rem;
+}
+
+.feature-title {
+  color: #fff;
+}
+
+.feature-description {
+  color: #ccc;
+}
+
+.line-image {
+  opacity: 0.; /* Make the line almost invisible */
+}
+
+.service-image {
+  width: 60px;
+  height: 60px;
+}
+
+.service-id {
+  color: #0FD0F9;
+}
